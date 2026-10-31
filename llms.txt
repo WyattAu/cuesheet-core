@@ -1,0 +1,6 @@
+# cuesheet-core
+
+> CDRWIN cue sheet reader/writer at 75 fps: tracks, indices, MM:SS:FF, CD-TEXT, no_std.
+
+- [README](README.md): behavior, usage, scope
+- [AGENTS](AGENTS.md): contract + truth table (one normative home per concern)

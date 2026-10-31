@@ -1,6 +1,6 @@
 # cuesheet-core
 
-CDRWIN cue sheet reader and writer — the estate's L0 layer for the format a CD rip uses
+CDRWIN cue sheet reader and writer; the estate's L0 layer for the format a CD rip uses
 to say where its tracks are. `#![no_std]` + `alloc`, one runtime dependency
 (`thiserror`), the same shape as every other L0 kit (`mp4-core`, `id3-core`).
 
